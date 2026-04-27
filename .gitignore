@@ -33,3 +33,5 @@ replay_pid*
 **/pom.xml.versionsBackup
 
 site/
+
+jdk-21/
